@@ -36,7 +36,7 @@ extern "C" {
 #include <stdint.h>
 #include <esp_err.h>
 
-#define I2C_HAL_MASTER_NUM          (1)
+#define I2C_HAL_MASTER_NUM          (0)
 #define I2C_HAL_MASTER_SDA          (21)
 #define I2C_HAL_MASTER_SCL          (22)
 #define I2C_HAL_MASTER_FREQ_HZ      (1000000)
